@@ -42,6 +42,8 @@ Linux: sering dianggap lebih stabil, aman, dan dapat diandalkan untuk server dan
 Windows: lebih sering digunakan di desktop dan laptop konvensional dengan fokus pada pengalaman pengguna yang lebih terintegrasi dengan produk Microsoft lainnya.
 
 Perbandingan Linux dan Windows
+
 ![image](https://github.com/user-attachments/assets/0a8be934-df94-48a5-a6d7-f30d8fe059a8)
+
 dari gambar diatas dapat dilihat lebih baik yang mana
 
