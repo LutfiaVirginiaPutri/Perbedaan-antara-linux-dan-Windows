@@ -1,5 +1,7 @@
 # Perbedaan-antara-linux-dan-Windows
+
 LINUX
+
 ![image](https://github.com/user-attachments/assets/7ac38383-fc9c-49de-be11-7068f4ab53c2)
 gambar linux
 
@@ -7,6 +9,7 @@ Linux adalah sebuah sistem operasi yang memiliki sumber terbuka (open source) da
 Linux kemudian menjadi dasar bagi banyak distribusi atau varian sistem operasi yang dikenal sebagai “distro” Linux. Linux secara resmi disebut sebagai “GNU/Linux” untuk menghormati peran perangkat lunak bebas yang dikembangkan oleh Proyek GNU dalam ekosistem Linux.
 
 WINDOWS
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9df6a01d-591f-41b9-bb32-3b8f982b8755" />
 gambar windows
 
